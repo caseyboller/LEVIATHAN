@@ -109,13 +109,13 @@ Material:
     - _Metallic: 0
     - _Normal_Map_Tiling: 0.37
     - _Normal_Scroll_Speed: 1
-    - _Normal_Strength: 0.56
+    - _Normal_Strength: 0.9
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.53
+    - _Smoothness: 0.77
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
